@@ -1,0 +1,16 @@
+.Navbar{
+  width: 100%;
+  background: rgb(0, 110, 255);
+  height: 10vh;
+  font-size: 28px;
+  color: #ffffff;
+  font-weight: 700;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+.Navbar p{
+  margin-left: 25px;
+  display: flex;
+  align-items: center; 
+}

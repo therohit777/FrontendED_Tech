@@ -1,0 +1,16 @@
+.dashboard{
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+.bodysections{
+  width: 100%;
+  height: 90vh;
+  display: flex;
+}
+.sidecont{
+  width: 20%;
+}
+.dashboardbody{
+  width: 80%;
+}
